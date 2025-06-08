@@ -324,3 +324,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+#Комментарий для git comit
+#Комментарий для feature-branch
